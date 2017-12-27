@@ -3165,6 +3165,10 @@ nested-error-stacks@^1.0.0, nested-error-stacks@^1.0.1:
   dependencies:
     inherits "~2.0.1"
 
+ng2-adsense@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/ng2-adsense/-/ng2-adsense-5.1.1.tgz#4c555a8a6890468f4ada29319e2ed56fc480580c"
+
 no-case@^2.2.0:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/no-case/-/no-case-2.3.2.tgz#60b813396be39b3f1288a4c1ed5d1e7d28b464ac"
