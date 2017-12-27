@@ -1,0 +1,57 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.inputarea {
+	overflow: scroll;
+    word-wrap: break-word;
+    height: 380px; 
+    z-index: auto;
+    position: relative;
+    line-height: 27px;
+    transition: none;
+    background: transparent !important;
+    width: calc(100% - 4.5rem);
+    min-height: 30rem;
+    max-height: 60rem;
+    padding: 1.75rem 2.25rem;
+    font-size: 20px;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    border: 1px solid black;
+}
+.top-menu-container{
+    background-color: #29ABA4;
+    border-top: 1px solid black;
+}
+.bottom-menu-container {
+background-color: #29ABA4;
+       margin: -4px 0px 0px;
+
+   border-bottom: 1px solid black;
+}
+.wordclass{
+    margin-left: 20px;
+display: inline-block;
+font-family: cursive;
+}
+.header-class {
+    font-family: cursive;
+    margin:0;
+    background-color: #3A9AD9;
+    padding-left: 10px;
+
+}
+.menu-text-class {
+    font-family: cursive;
+    margin-left: 10px;
+        font-size: 23px;
+}
+body {
+    margin:0;
+}
+.letterclass {
+display: inline-block;
+margin-left: 50px;
+font-family: cursive;
+}
+
